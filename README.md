@@ -35,6 +35,6 @@ build\VapeV4.exe
 
 No Roblox external, runtime, process-memory, probe, or user config files are included.
 Dear ImGui is distributed under the MIT license in `imgui/LICENSE.txt`.
-<img width="1483" height="837" alt="image" src="https://github.com/user-attachments/assets/389a1858-6f00-4e34-ae9e-095d10b75505" />
 
 ## Preview
+<img width="1483" height="837" alt="image" src="https://github.com/user-attachments/assets/389a1858-6f00-4e34-ae9e-095d10b75505" />
